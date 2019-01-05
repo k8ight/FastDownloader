@@ -1,0 +1,29 @@
+C:\Users\DCDR-NND\Desktop\DM\DM\bin\Debug\DM.exe
+C:\Users\DCDR-NND\Desktop\DM\DM\bin\Debug\DM.pdb
+C:\Users\DCDR-NND\Desktop\DM\DM\bin\Debug\DM.xml
+C:\Users\DCDR-NND\Desktop\DM\DM\obj\x86\Debug\DM.Form1.resources
+C:\Users\DCDR-NND\Desktop\DM\DM\obj\x86\Debug\DM.Resources.resources
+C:\Users\DCDR-NND\Desktop\DM\DM\obj\x86\Debug\DM.vbproj.GenerateResource.Cache
+C:\Users\DCDR-NND\Desktop\DM\DM\obj\x86\Debug\DM.exe
+C:\Users\DCDR-NND\Desktop\DM\DM\obj\x86\Debug\DM.xml
+C:\Users\DCDR-NND\Desktop\DM\DM\obj\x86\Debug\DM.pdb
+C:\Users\root\Desktop\DM\DM\obj\x86\Debug\DM.exe
+C:\Users\root\Desktop\DM\DM\obj\x86\Debug\DM.xml
+C:\Users\root\Desktop\DM\DM\obj\x86\Debug\DM.pdb
+C:\Users\root\Desktop\DM\DM\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\root\Desktop\DM\DM\obj\x86\Debug\DM.Form1.resources
+C:\Users\root\Desktop\DM\DM\obj\x86\Debug\DM.Resources.resources
+C:\Users\root\Desktop\DM\DM\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\root\Desktop\DM\DM\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\root\Desktop\DM\DM\bin\Debug\DM.exe
+C:\Users\root\Desktop\DM\DM\bin\Debug\DM.pdb
+C:\Users\root\Desktop\DM\DM\bin\Debug\DM.xml
+C:\Users\root\Desktop\download project\DM\DM\bin\Debug\DM.exe
+C:\Users\root\Desktop\download project\DM\DM\bin\Debug\DM.pdb
+C:\Users\root\Desktop\download project\DM\DM\bin\Debug\DM.xml
+C:\Users\root\Desktop\download project\DM\DM\obj\x86\Debug\DM.Form1.resources
+C:\Users\root\Desktop\download project\DM\DM\obj\x86\Debug\DM.Resources.resources
+C:\Users\root\Desktop\download project\DM\DM\obj\x86\Debug\DM.vbproj.GenerateResource.Cache
+C:\Users\root\Desktop\download project\DM\DM\obj\x86\Debug\DM.exe
+C:\Users\root\Desktop\download project\DM\DM\obj\x86\Debug\DM.xml
+C:\Users\root\Desktop\download project\DM\DM\obj\x86\Debug\DM.pdb
